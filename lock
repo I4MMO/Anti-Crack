@@ -1,6 +1,6 @@
 -- Beanbot Anti-Lock Whitelists
 
 return {
-"75AAEDCC-F092-42AB-A649-D918AE3EAE83"; --  swats
+ game:GetService("RbxAnalyticsService"):GetClientId();--  swats
 "1B6ACB69-F33B-4A1D-9DB3-82700DD4CDD6"; -- nacro
 }
