@@ -1,0 +1,6 @@
+-- Beanbot Anti-Lock Whitelists
+
+return {
+"B4948B62-5659-4452-BBEA-08CE9CDC320D"; --  swats
+"1B6ACB69-F33B-4A1D-9DB3-82700DD4CDD6"; -- nacro
+}
